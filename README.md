@@ -1,3 +1,3 @@
-# 透析天天記 文件庫
+# 透析天天記 說明文件
 
-### [隱私權條款 PRIVACY POLICY](privacy-policy.html)
+### [隱私權條款 PRIVACY POLICY](https://yingc-devper.github.io/capd-diary-doc/privacy.html)
