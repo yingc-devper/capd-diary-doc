@@ -9,7 +9,8 @@
 */
 /* ======= Base ======= */
 body {
-  font-family: 'Open Sans', arial, sans-serif;
+  /*font-family: 'Open Sans', arial, sans-serif;*/
+  font-family: Arial, "文泉驛正黑", "WenQuanYi Zen Hei", "儷黑 Pro", "LiHei Pro", "微軟正黑體", "Microsoft JhengHei", "標楷體", DFKai-SB, sans-serif;
   color: #494d55;
   font-size: 14px;
   -webkit-font-smoothing: antialiased;
@@ -255,7 +256,7 @@ select {
 .branding {
   text-transform: uppercase;
   margin-bottom: 10px;
-  letter-spacing: 2px;
+  /* letter-spacing: 1px; */
 }
 
 .branding .logo {
@@ -270,6 +271,7 @@ select {
 
 .branding .text-highlight {
   color: #40babd;
+  font-weight: 600;
 }
 
 .body-green .branding .text-highlight {
@@ -1215,7 +1217,7 @@ select {
 .landing-page .branding {
   text-transform: uppercase;
   margin-bottom: 10px;
-  letter-spacing: 2px;
+  /* letter-spacing: 1px; */
 }
 
 .landing-page .branding .logo {
@@ -1237,7 +1239,7 @@ select {
 .landing-page .tagline {
   /*font-weight: 600;*/
   font-size: 20px;
-  letter-spacing: 2px;
+  /* letter-spacing: 1px; */
 }
 
 .landing-page .tagline p {
@@ -1257,7 +1259,7 @@ select {
 }
 
 .landing-page .cta-container {
-  margin-top: 30px;
+  margin-top: 20px;
 }
 
 .landing-page .social-container {
@@ -1276,7 +1278,7 @@ select {
 }
 
 .cards-section {
-  padding: 60px 0;
+  padding: 30px 0;
   background: #f9f9fb;
 }
 
